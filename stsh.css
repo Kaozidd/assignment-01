@@ -1,0 +1,15 @@
+h1 {
+	font-family: 'Helvetica', cursive;
+	font-size: 40px;
+	margin-bottom: 0;
+	text-align: left
+}
+
+time {
+	color: red;
+	font-family: 'Times New Roman', sans-serif;
+	font-size: 25px;
+	text-align: left;
+	padding-bottom: 15px;
+}
+
